@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0px;
+    
+    /* background-image: url(https://thumbs.dreamstime.com/b/asian-food-background-various-ingredients-rustic-stone-top-view-vietnam-thai-cuisine-148762904.jpg); */
+    
+
+}     
+.un{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(156, 185, 156, 0.767);
+} 
+nav{
+    display: flex;
+    background-color: black;
+    height: 100px;
+    position: sticky;
+    top: 0;
+}
+#foody{
+    
+    font-size: 50px;
+    font-style: oblique;
+    color: blanchedalmond;
+    /* text-align: center; */
+    padding-top: 30px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+    height: 50px;
+    padding-left: 750px;
+    /* background-color: brown;  */
+}
+nav ul li {
+    display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+  color: antiquewhite;
+  /* background-color: blueviolet; */
+  margin: 30px;
+  
+}
+
+.id{
+    text-decoration: none;
+}
+/* .pic{
+    width: 100%;
+    height: 300px;
+    padding-left: 100px;
+} */
+
+.search{
+    border: 1px solid black;
+    color: aliceblue;
+    width: 300px;
+    height: 30px;
+    padding-left: 50px;
+    justify-content: center;
+    /* margin: 2px; */
+    
+}
+
+    /* background-color: aqua; */
+
+.b1 input{
+    padding-right: 600px;
+}
+.gold{
+    background-color: black;
+    /* background-image: url(https://www.shutterstock.com/shutterstock/photos/312971378/display_1500/stock-vector-star-and-confetti-background-312971378.jpg); */
+    border: 10px solid goldenrod;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 30%;
+    width: 800px;
+    height: 300px;
+    
+
+}
+.g1{
+    color: goldenrod;
+    background-color: black;
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
+
+#logo{
+    height: 150px;
+    width: 200px;
+    padding-top: 8px;
+}
+
+#g2{
+    color: goldenrod;
+    background-color: black;
+    border: 2px solid goldenrod;
+    width: 100px;
+    text-decoration: none;
+}
+
+.link3{
+    text-decoration: none;
+    color: goldenrod;
+}
+.side{
+    width: 200px;
+    height: 100%;
+    margin-top: -20px;
+    background-color: blueviolet;
+}
+
+.s1{
+    display: block;
+}
+#down{
+    padding-top: 50px;
+}
+
+.row{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+    /* background-color: rgba(90, 124, 90, 0.637); */
+    
+    /* background-color: black; */
+}
+
+.col{
+    width: 200px;
+    height: 200px;
+    /* background-color: rgba(90, 124, 90, 0.637); */
+    margin: 10px;
+    
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+
+#i1{
+    border-radius: 50%;
+}
+
+#i2{
+    border-radius: 50%;
+}
+#i3{
+    border-radius: 50%;
+}
+
+
+.row1{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.col1{
+    width: 200px;
+    height: 200px;
+/* background-color: aqua; */
+    margin: 10px;
+    
+}
+
+.row2{
+    width: 100%;
+    height: 550px;
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: aqua; */
+
+}
+.col2{
+    width: 500px;
+    height: 500px;
+background-color: rgba(110, 146, 110, 0.719);
+    margin: 5px;
+    border: 5px solid white;
+    
+    padding: 5px;
+    
+}
+
+.checked {
+    color: green;
+  }
+
+  #ip1{
+    background-color: green;
+    
+  }
+ h3{
+    text-align: center;
+ }
+ p{
+    font-style: italic;
+    text-align: justify;
+    height: 120px;
+ }
+ .link{
+    text-decoration: none;
+    color: green;
+ }
+
+ .link1{
+    text-decoration: none;
+    color: white;
+ }
+
+ .prep{
+    border: 3px solid green;
+    background-color: black;
+    color: rgba(103, 158, 103, 0.774);
+    width: 200px;
+    height: 60px;
+    /* border-radius: 30%; */
+    /* width: 80px; */
+ }
+
+ footer ul{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+footer ul li{
+    color: aliceblue;
+}
